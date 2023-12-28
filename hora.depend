@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1703686149 source:c:\users\administrator\desktop\antu - documentos\programacion\c\practica\hora\tiempo.c
+	<stdio.h>
+	<stdlib.h>
+	"tiempo.h"
+	"time.h"
+
+1703686047 c:\users\administrator\desktop\antu - documentos\programacion\c\practica\hora\tiempo.h
+
